@@ -32,8 +32,10 @@
 <img src="./TruckPics/Resized_20230821_181115.jpeg" alt="Resized_20230821_181115" height="500"/>
 <img src="./TruckPics/Resized_20230923_105253.jpeg" alt="Resized_20230923_105253" height="500"/>
 <img src="./TruckPics/f135233280.jpeg" alt="f135233280" height="500"/>
-<img src="./TruckPics/f132829440.jpeg" alt="f132829440" height="500"/>
+
 <img src="./TruckPics/f133260544.jpeg" alt="f133260544" height="500"/>
+<img src="./TruckPics/f132829440.jpeg" alt="f132829440" height="500"/>
+
 <img src="./TruckPics/f133362944.jpeg" alt="f133362944" height="500"/>
 <img src="./TruckPics/f133371648.jpeg" alt="f133371648" height="500"/>
 <img src="./TruckPics/f133540864.jpeg" alt="f133540864" height="500"/>
