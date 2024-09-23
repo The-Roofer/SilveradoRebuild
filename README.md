@@ -1,18 +1,5 @@
 # These are some pictures of my 2008 Silverado 1500 4x4 that I rebuilt in the summer of 2023
 
-<img src="./TruckPics/20240507_135339.jpg" alt="20240507_135339" height="500"/>
-<img src="./TruckPics/20240507_135544.jpg" alt="20240507_135544" height="500"/>
-<img src="./TruckPics/20240524_163821.jpg" alt="20240524_163821" height="500"/>
-<img src="./TruckPics/20240531_174046.jpg" alt="20240531_174046" height="500"/>
-<img src="./TruckPics/20240609_103705.jpg" alt="20240609_103705" height="500"/>
-<img src="./TruckPics/20240609_103716.jpg" alt="20240609_103716" height="500"/>
-<img src="./TruckPics/20240609_103726.jpg" alt="20240609_103726" height="500"/>
-<img src="./TruckPics/20240609_103749.jpg" alt="20240609_103749" height="500"/>
-<img src="./TruckPics/20240609_103827.jpg" alt="20240609_103827" height="500"/>
-<img src="./TruckPics/20240609_103901.jpg" alt="20240609_103901" height="500"/>
-<img src="./TruckPics/20240609_103910.jpg" alt="20240609_103910" height="500"/>
-<img src="./TruckPics/20240610_162230.jpg" alt="20240610_162230" height="500"/>
-<img src="./TruckPics/20240610_182019.jpg" alt="20240610_182019" height="500"/>
 <img src="./TruckPics/Resized_20230213_180359.jpeg" alt="Resized_20230213_180359" height="500"/>
 <img src="./TruckPics/Resized_20230224_163141.jpeg" alt="Resized_20230224_163141" height="500"/>
 <img src="./TruckPics/Resized_20230224_163540.jpeg" alt="Resized_20230224_163540" height="500"/>
@@ -56,3 +43,17 @@
 <img src="./TruckPics/f97808896.jpeg" alt="f97808896" height="500"/>
 <img src="./TruckPics/f97816576.jpeg" alt="f97816576" height="500"/>
 <img src="./TruckPics/f97825024.jpeg" alt="f97825024" height="500"/>
+<img src="./TruckPics/20240609_103705.jpg" alt="20240609_103705" height="500"/>
+
+<img src="./TruckPics/20240507_135339.jpg" alt="20240507_135339" height="500"/>
+<img src="./TruckPics/20240507_135544.jpg" alt="20240507_135544" height="500"/>
+<img src="./TruckPics/20240524_163821.jpg" alt="20240524_163821" height="500"/>
+<img src="./TruckPics/20240531_174046.jpg" alt="20240531_174046" height="500"/>
+<img src="./TruckPics/20240609_103716.jpg" alt="20240609_103716" height="500"/>
+<img src="./TruckPics/20240609_103726.jpg" alt="20240609_103726" height="500"/>
+<img src="./TruckPics/20240609_103749.jpg" alt="20240609_103749" height="500"/>
+<img src="./TruckPics/20240609_103827.jpg" alt="20240609_103827" height="500"/>
+<img src="./TruckPics/20240609_103901.jpg" alt="20240609_103901" height="500"/>
+<img src="./TruckPics/20240609_103910.jpg" alt="20240609_103910" height="500"/>
+<img src="./TruckPics/20240610_162230.jpg" alt="20240610_162230" height="500"/>
+<img src="./TruckPics/20240610_182019.jpg" alt="20240610_182019" height="500"/>
