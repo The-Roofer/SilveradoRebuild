@@ -21,35 +21,32 @@
 
 
 <img src="./TruckPics/Resized_20230526_162816.jpeg" alt="Resized_20230526_162816" height="500"/>
-<img src="./TruckPics/Resized_20230526_162833.jpeg" alt="Resized_20230526_162833" height="500"/>
-<img src="./TruckPics/Resized_20230526_162852.jpeg" alt="Resized_20230526_162852" height="500"/>
 <img src="./TruckPics/Resized_20230620_172649.jpeg" alt="Resized_20230620_172649" height="500"/>
 <img src="./TruckPics/f96107520.jpeg" alt="f96107520" height="500"/>
+<img src="./TruckPics/f95876864.jpeg" alt="f95876864" height="500"/>
+<img src="./TruckPics/f95888896.jpeg" alt="f95888896" height="500"/>
 <img src="./TruckPics/Resized_20230618_144150.jpeg" alt="Resized_20230618_144150" height="500"/>
 <img src="./TruckPics/Resized_20230813_111146.jpeg" alt="Resized_20230813_111146" height="500"/>
 <img src="./TruckPics/Resized_20230813_154932.jpeg" alt="Resized_20230813_154932" height="500"/>
-<img src="./TruckPics/Resized_20230818_145805.jpeg" alt="Resized_20230818_145805" height="500"/>
-<img src="./TruckPics/Resized_20230821_181115.jpeg" alt="Resized_20230821_181115" height="500"/>
-<img src="./TruckPics/Resized_20230923_105253.jpeg" alt="Resized_20230923_105253" height="500"/>
-<img src="./TruckPics/f135233280.jpeg" alt="f135233280" height="500"/>
-
-<img src="./TruckPics/f133260544.jpeg" alt="f133260544" height="500"/>
 <img src="./TruckPics/f132829440.jpeg" alt="f132829440" height="500"/>
+<img src="./TruckPics/Resized_20230818_145805.jpeg" alt="Resized_20230818_145805" height="500"/>
+<img src="./TruckPics/f133260544.jpeg" alt="f133260544" height="500"/>
+<img src="./TruckPics/Resized_20230821_181115.jpeg" alt="Resized_20230821_181115" height="500"/>
+
 
 <img src="./TruckPics/f133362944.jpeg" alt="f133362944" height="500"/>
 <img src="./TruckPics/f133371648.jpeg" alt="f133371648" height="500"/>
 <img src="./TruckPics/f133540864.jpeg" alt="f133540864" height="500"/>
-<img src="./TruckPics/f95876864.jpeg" alt="f95876864" height="500"/>
-<img src="./TruckPics/f95888896.jpeg" alt="f95888896" height="500"/>
+<img src="./TruckPics/f135233280.jpeg" alt="f135233280" height="500"/>
 <img src="./TruckPics/f97808896.jpeg" alt="f97808896" height="500"/>
 <img src="./TruckPics/f97816576.jpeg" alt="f97816576" height="500"/>
+<img src="./TruckPics/Resized_20230923_105253.jpeg" alt="Resized_20230923_105253" height="500"/>
 <img src="./TruckPics/f97825024.jpeg" alt="f97825024" height="500"/>
 <img src="./TruckPics/20240609_103705.jpg" alt="20240609_103705" height="500"/>
 
 <img src="./TruckPics/f135701760.jpeg" alt="f135701760" height="500"/>
 <img src="./TruckPics/f135725824.jpeg" alt="f135725824" height="500"/>
 <img src="./TruckPics/20240507_135339.jpg" alt="20240507_135339" height="500"/>
-<img src="./TruckPics/20240507_135544.jpg" alt="20240507_135544" height="500"/>
 <img src="./TruckPics/20240524_163821.jpg" alt="20240524_163821" height="500"/>
 <img src="./TruckPics/20240531_174046.jpg" alt="20240531_174046" height="500"/>
 <img src="./TruckPics/20240609_103716.jpg" alt="20240609_103716" height="500"/>
@@ -59,4 +56,5 @@
 <img src="./TruckPics/20240609_103901.jpg" alt="20240609_103901" height="500"/>
 <img src="./TruckPics/20240609_103910.jpg" alt="20240609_103910" height="500"/>
 <img src="./TruckPics/20240610_162230.jpg" alt="20240610_162230" height="500"/>
+<img src="./TruckPics/20240507_135544.jpg" alt="20240507_135544" height="500"/>
 <img src="./TruckPics/20240610_182019.jpg" alt="20240610_182019" height="500"/>
